@@ -48,7 +48,7 @@ header p {
    ========================= */
 
 nav {
-    background-color: #222;
+    background-color: #171717;
 
     text-align: right;
 
@@ -109,7 +109,7 @@ nav a:hover {
 }
 
 nav a.contact:hover {
-	background-color: #9c6314;
+	background-color: #7a4d0f;
 }
 	
 	
